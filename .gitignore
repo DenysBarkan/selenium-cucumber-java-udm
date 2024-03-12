@@ -23,3 +23,4 @@ build/
 
 # Mac OS
 .DS_Store
+selenium_cucmber_java_udm/src/main/java/drivers/chromedriver
